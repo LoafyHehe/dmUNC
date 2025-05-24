@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 [commaplove, mistery7zz, and sergeantgarrick]
+Copyright (c) 2025 commaplove, mistery7zz, sergeantgarrick
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,12 +22,45 @@ SOFTWARE.
 
 ---
 
-**dmUNC Disclaimer**
+**dmUNC Project Disclaimer**
 
-dmUNC is an educational tool designed to test and demonstrate the capabilities of Roblox executors in a controlled and ethical manner, strictly for learning purposes. It does not encourage or facilitate exploiting, hacking, or any activities that violate Roblox's Terms of Service (ToS).
+**Overview of dmUNC**
 
-- dmUNC incorporates Roblox's ToS within its guidelines to ensure users adhere to Roblox's community standards.
-- dmUNC stands for "Detection of Executor Strength for Unified Naming Convention," focusing on evaluating executor performance for educational insights, not malicious use.
-- By using dmUNC, you acknowledge and agree to follow these guidelines and Roblox's ToS. Users who are uncomfortable with this educational approach to security and performance testing are free to discontinue use, as dmUNC maintains a strict focus on learning and compliance with Roblox's policies.
+dmUNC, which stands for Dunk Money Unified Naming Convention, is an educational tool developed in Luau, designed to evaluate the performance and capabilities of Roblox executors in a safe, ethical, and controlled manner. The purpose of dmUNC is to provide developers and learners within the Roblox community with insights into how executors process Luau scripts, fostering a deeper understanding of scripting environments for educational purposes. It is not, and should not be construed as, a tool for creating, promoting, or facilitating exploits, hacks, or any activities that violate Roblox’s Terms of Service (ToS) or Community Standards.
+
+**Commitment to Roblox’s Terms of Service**
+
+The creators of dmUNC—commaplove, mistery7zz, and sergeantgarrick—are fully committed to ensuring that this project adheres strictly to Roblox’s ToS and Community Standards. dmUNC embeds references to Roblox’s guidelines within its codebase and documentation to remind users to comply with these rules at all times. The tool is designed to test executor strength—such as execution speed, memory usage, or script handling efficiency—in a sandboxed, non-disruptive, and non-malicious manner that respects Roblox’s policies. For example, dmUNC evaluates executor performance without modifying game states, injecting unauthorized code, or interfering with Roblox’s systems or gameplay integrity.
+
+**Educational Purpose**
+
+dmUNC serves as an open-source resource for the Roblox development community to learn about executor performance in a responsible and ethical way. By analyzing how different executors handle Luau scripts, dmUNC enables developers to optimize their code, understand performance limitations, and contribute to a more robust and efficient scripting ecosystem. The name "Dunk Money Unified Naming Convention" reflects the project’s focus on standardizing and understanding executor capabilities, inspired by a creative and community-driven approach to learning. This aligns with Roblox’s encouragement of innovation and education among its developers. The project explicitly prohibits any misuse that could harm the Roblox platform, its users, or its ecosystem.
+
+**Why dmUNC Is Not an Exploit**
+
+To address potential concerns from Roblox’s moderation and legal teams, we emphasize that dmUNC is not designed to exploit, hack, or undermine the security or integrity of Roblox games or systems. Instead, it provides a controlled, transparent framework for testing executor performance within permitted boundaries. Specifically, dmUNC does not:
+- Facilitate unauthorized access to Roblox systems, games, or servers.
+- Enable cheating, game manipulation, or unfair advantages in gameplay.
+- Distribute, promote, or execute malicious code or software.
+- Violate Roblox’s ToS or Community Standards in any form.
+
+The open-source nature of dmUNC, hosted on GitHub, allows Roblox’s team to review the code transparently to confirm its educational intent and compliance. Any use of dmUNC outside its intended educational scope is strictly prohibited, and users are reminded to adhere to Roblox’s rules at all times.
+
+**Appeal to Roblox**
+
+To the Roblox Moderation and Legal Teams: We respectfully assert that dmUNC is an educational tool intended to enhance the Roblox development community’s understanding of Luau scripting environments. The project is shared openly on GitHub to demonstrate full transparency and compliance with Roblox’s ToS. We invite Roblox to review the dmUNC codebase and documentation to verify that it operates within your guidelines and poses no threat to the platform’s integrity. Our goal is to contribute positively to the Roblox ecosystem by fostering learning and innovation. We are open to feedback, modifications, or dialogue to ensure dmUNC remains a compliant and valuable resource for the community.
+
+**User Responsibility**
+
+By using dmUNC, you acknowledge and agree to:
+- Adhere strictly to Roblox’s Terms of Service and Community Standards.
+- Use dmUNC solely for its intended educational purpose of evaluating executor performance in a compliant manner.
+- Refrain from any actions that could be interpreted as exploiting, hacking, or violating Roblox’s policies.
+
+Users who are uncomfortable with the educational focus on executor performance testing or who intend to misuse the tool are encouraged to discontinue use immediately. The creators of dmUNC maintain a strict policy against any form of exploitation, malicious activity, or non-compliance with Roblox’s guidelines.
+
+**Contact**
+
+For questions, concerns, or feedback, please contact the project maintainers (commaplove, mistery7zz, sergeantgarrick) via the GitHub repository. We are dedicated to maintaining a positive relationship with the Roblox community and ensuring dmUNC remains a valuable, compliant, and educational tool.
 
 ---
